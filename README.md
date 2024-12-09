@@ -1,6 +1,6 @@
 Hello! I’m Mohammadreza Ghofrani, a graduate student with a Master’s degree in Artificial Intelligence, specializing in Natural Language Processing, from Amirkabir University of Technology (Tehran Polytechnic).
 
-On the [blog](/blog/) section, I occasionally share my thoughts on the papers I read.
+On the [blog](https://mrghofrani.github.io/blog/) section, I occasionally share my thoughts on the papers I read.
 
 ## Education
 
