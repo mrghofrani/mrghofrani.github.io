@@ -1,0 +1,17 @@
+Mohammadreza Ghofrani:
+  name: "Mohammadreza Ghofrani"
+  avatar: "https://lh3.googleusercontent.com/a/ACg8ocICftnsUtCpd_7hMhqlFzBnij9dDB3QN4c8LjCI_CD9EX1tKl8p=s288-c-no"
+  bio: "Master's in Natural Language Processing"
+  links:
+    - label: "Gmail"
+      icon: "fa-fw fa-brands fa-google"
+      url: "mailto:ghofrani132@gmail.com"
+    - label: "Github"
+      icon: "fa-fw fa-brands fa-github"
+      url: "https://github.com/mrghofrani"
+    - label: "Scholar"
+      icon: "fa-fw fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=Lqsok5MAAAAJ&hl=en"
+    - label: "Stackoverflow"
+      icon: "fa-fw fa-brands fa-stack-overflow"
+      url: "https://stackoverflow.com/users/9251971/mrghofrani"
